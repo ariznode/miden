@@ -1,4 +1,4 @@
-# miden
+# Miden Node Guide
 Guide to Installation Miden Node
 
 ## Install Package
@@ -18,4 +18,10 @@ source $HOME/.cargo/env
 
 ```
 rustc --version
+```
+
+#### Install miden node
+
+```
+cargo install miden-node --locked
 ```
