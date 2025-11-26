@@ -1,6 +1,13 @@
 # Miden Node Guide
 Guide to Installation Miden Node
 
+#### Specification
+
+Minimum Specifiaction :
+
+- 4 core CPU
+- 8 gb ram
+
 ## Install Package
 
 #### Install Dependencies
